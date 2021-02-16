@@ -1,0 +1,9 @@
+.Header{
+    grid-area: h;
+    background-color: firebrick;
+  }
+  .header img {
+    width:100px;
+  }
+  
+  
